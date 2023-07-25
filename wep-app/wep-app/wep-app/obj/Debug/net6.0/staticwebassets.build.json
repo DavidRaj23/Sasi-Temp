@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hd5L1lQJzyfEInT2CG6uXGuagwhg0reeHvsQUF4fkwU=",
+  "Source": "wep-app",
+  "BasePath": "_content/wep-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
